@@ -111,9 +111,7 @@ print(f"Fraud Score: {result.score}, Decision: {result.decision}")
 
 ## Documentation
 
-- [Implementation Plan](docs/IMPLEMENTATION_PLAN.md) - Detailed phased development plan
-- [Feature Engineering Guide](docs/FEATURES.md) - Feature definitions and rationale
-- [Model Architecture](docs/MODELS.md) - Model design decisions
+- [Implementation Plan](docs/IMPLEMENTATION_PLAN.md) - Detailed phased development plan with architecture, code skeletons, and testing strategy
 
 ## License
 
